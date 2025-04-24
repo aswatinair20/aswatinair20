@@ -1,5 +1,5 @@
 - Hi, I'm Aswati!
-- 🌱 I’m currently working on Cloud Computing and Data Science related projects
+- 🌱 I’m currently working on Cloud Computing and Graphic Designing related projects
 - 📫 How to reach me: https://www.linkedin.com/in/aswati-rajeev-nair-233074252/
 
 <!---
