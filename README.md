@@ -1,7 +1,7 @@
 # 💫 Hi, I'm Aswati!<br>
 - Studying B. Tech Computer Science (Cloud Computing)<br>
 - Passionate about UI/UX and Graphic Designing<br>
-- I’m currently learning Frontend Development for Web Designing
+  
 
 
 ## 🌐 Socials:
